@@ -58,7 +58,7 @@ gcc Ejercicio7.c -0 Ej7
 
 
 - Solicitud aceptada con merge automático
-![Comprobacion1](Fotos/Comprobacion(1).png)
+![Comprobacion1](Fotos/Comprobacion(2).png)
 
 - Regla en rama **main** para poder trabajar con el merge automático:
 
