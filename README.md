@@ -18,9 +18,9 @@ Además, incluimos una explicación de cómo ejecutar nuestros códigos.
 ## Ejercicio 6
 <a href="https://github.com/UliRodGonzZa/3TareaC/raw/main/Ejercicio6.c" download style="text-decoration: none; background-color: #4CAF50; color: white; padding: 10px 20px; border-radius: 5px;">Descargar Ejercicio 6 </a>
 
-![PrimeraParte](Ejercicio6(1).png)
-![SegundaParte](Ejercicio6(2).png)
-![TerceraParte](Ejercicio6(3).png)
+![PrimeraParte](Fotos/Ejercicio6(1).png)
+![SegundaParte](Fotos/Ejercicio6(2).png)
+![TerceraParte](Fotos/Ejercicio6(3).png)
 
 ---
 
@@ -36,9 +36,9 @@ gcc Ejercicio6.c -o Ej6
 ## Ejercicio 7
 <a href="https://github.com/UliRodGonzZa/3TareaC/raw/main/Ejercicio7.c" download style="text-decoration: none; background-color: #4CAF50; color: white; padding: 10px 20px; border-radius: 5px;">Descargar Ejercicio 7 </a>
 
-![PrimeraParte](Ejercicio7(1).png)
-![SegundaParte](Ejercicio7(2).png)
-![TerceraParte](Ejercicio7(3).png)
+![PrimeraParte](Fotos/Ejercicio7(1).png)
+![SegundaParte](Fotos/Ejercicio7(2).png)
+![TerceraParte](Fotos/Ejercicio7(3).png)
 
 ## Para la ejecuion del programa 7:
 
@@ -54,15 +54,15 @@ gcc Ejercicio7.c -0 Ej7
 **_Se muestran comprobaciones:_**
 
 - Solicitud de PR con opción **enable auto-merge**
-![Comprobacion1](Comprobacion(1).png)
+![Comprobacion1](Fotos/Comprobacion(1).png)
 
 
 - Solicitud aceptada con merge automático
-![Comprobacion1](Comprobacion(1).png)
+![Comprobacion1](Fotos/Comprobacion(1).png)
 
 - Regla en rama **main** para poder trabajar con el merge automático:
 
-![Regla](ReglaMain.png)
+![Regla](Fotos/ReglaMain.png)
 
 
 
